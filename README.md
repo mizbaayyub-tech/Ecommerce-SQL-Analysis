@@ -9,4 +9,4 @@ This project demonstrates database design, structured querying, and optimization
 - **Joins:** Utilized `INNER JOIN` and `LEFT JOIN` to map customer order histories.
 - **Subqueries & Views:** Built a virtual view `high_value_orders` to filter high-ticket transactions.
 - **Optimization:** Added query indexing (`idx_order_user`).
--
+
